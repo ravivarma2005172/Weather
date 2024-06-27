@@ -23,7 +23,7 @@ This Weather App fetches and displays weather information based on the city name
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sboni2/Bharat_Intern_Task_1.git
+    git clone https://github.com/ravivarma2005172/Weather_API.git
     ```
 2. Navigate to the project directory:
     ```bash
